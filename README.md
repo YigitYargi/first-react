@@ -14,10 +14,30 @@ Projeyi yapma amacım MERN(Mongo - Express - React - Node.js) becerilerimi geli�
 
 
 
+PAYLAŞIM YAPMA SAYFASI
+
+
+<img width="955" alt="Ekran görüntüsü 2024-08-12 141542" src="https://github.com/user-attachments/assets/06c7dee3-557b-4e87-9fe7-3cd61f9377bc">
+
+
+Edit this post seçeneğine tıklayarak paylaşımda değişiklikleri yapılabilir.
+
+
+<img width="725" alt="Ekran görüntüsü 2024-08-12 141618" src="https://github.com/user-attachments/assets/9837c546-3a80-45dd-bf3e-1afa529608d5">
+
+Ayrıca paylaşım silinebilir.
+
+<img width="610" alt="Ekran görüntüsü 2024-08-12 141641" src="https://github.com/user-attachments/assets/812926c3-7dad-4f8d-b2fd-99c81cf5e825">
 
 
 
 
+<img width="945" alt="Ekran görüntüsü 2024-08-12 141712" src="https://github.com/user-attachments/assets/95f9c83e-ad4a-461e-8a40-5851c8ee18a6">
+
+
+
+
+<img width="914" alt="Ekran görüntüsü 2024-08-12 141728" src="https://github.com/user-attachments/assets/7b314293-d721-47ca-9c7e-42dbd2841902">
 
 
 
