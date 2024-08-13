@@ -8,7 +8,8 @@ Projeyi yapma amacım MERN(Mongo - Express - React - Node.js) becerilerimi geli�
 
 
 
-<img width="959" alt="Ekran görüntüsü 2024-08-12 141503" src="https://github.com/user-attachments/assets/b1e924d0-e515-48bf-9302-f379cbe21f15">
+
+<img width="959" alt="Ekran görüntüsü 2024-08-12 141519" src="https://github.com/user-attachments/assets/ebca9265-7049-4d20-b381-8039730f3f6e">
 
 
 
