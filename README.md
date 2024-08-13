@@ -6,6 +6,9 @@ Projede React teknolojisi kullanılmış, database olarak MongoDB tercih edilmi�
 
 Projeyi yapma amacım MERN(Mongo - Express - React - Node.js) becerilerimi geliştirmek ve basit bir site oluşturarak full stack becerilerimi geliştirmek.
 
+<img width="959" alt="Ekran görüntüsü 2024-08-12 141503" src="https://github.com/user-attachments/assets/b1e924d0-e515-48bf-9302-f379cbe21f15">
+
+
 
 
 # Getting Started with Create React App
