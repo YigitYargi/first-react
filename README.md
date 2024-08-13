@@ -1,3 +1,13 @@
+
+
+Projenin amacı kullanıcıların teknolojiyle alakalı paylaşım yapabileceği bir blog sitesi oluşturmaktır.
+
+Projede React teknolojisi kullanılmış, database olarak MongoDB tercih edilmiştir.
+
+Projeyi yapma amacım MERN(Mongo - Express - React - Node.js) becerilerimi geliştirmek ve basit bir site oluşturarak full stack becerilerimi geliştirmek.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
